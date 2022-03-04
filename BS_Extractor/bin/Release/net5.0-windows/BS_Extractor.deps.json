@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BS_Extractor/1.0.0": {
+        "runtime": {
+          "BS_Extractor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BS_Extractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
